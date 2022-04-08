@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-    <img src="https://media2.giphy.com/media/hK61m7SawMkqUcyLg1/200.gif" alt="Image" width="800" height="600" />
+    <img src="https://media2.giphy.com/media/hK61m7SawMkqUcyLg1/200.gif" alt="Image" width="700" height="400" />
 </p>
  <!--
 **Alejoprin/Alejoprin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
