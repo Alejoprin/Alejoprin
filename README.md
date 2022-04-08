@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://media2.giphy.com/media/hK61m7SawMkqUcyLg1/200.gif
+![image](https://media2.giphy.com/media/hK61m7SawMkqUcyLg1/200.gif)
 <!--
 **Alejoprin/Alejoprin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
