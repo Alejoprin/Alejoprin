@@ -9,7 +9,7 @@
 <hr>
 
 <h4>🔭  I’m currently working with ...</h4>
-<br>
+
 <h5>UI Developer</h5>
 <p></p>
 <p align="center">
